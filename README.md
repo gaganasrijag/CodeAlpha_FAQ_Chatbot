@@ -58,7 +58,7 @@ CodeAlpha_AI_FAQ_Chatbot
 ### 1. Clone the repository
 
 ```
-git clone <repository-link>
+https://github.com/gaganasrijag/CodeAlpha_FAQ_Chatbot
 ```
 
 ### 2. Install required libraries
